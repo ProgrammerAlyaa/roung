@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989268243185",
+    "project_id": "roung-app",
+    "storage_bucket": "roung-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989268243185:android:12a668b171932e3a3faf50",
+        "android_client_info": {
+          "package_name": "com.roung.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989268243185-itltfuipq368con2fhkqs09k7vf5jp8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApsbvagPxhqpmFjaKFsjDBOaB8nxGtik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989268243185-itltfuipq368con2fhkqs09k7vf5jp8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
