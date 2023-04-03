@@ -1,16 +1,25 @@
-# shop_app
+# Roung App 
 
-A new Flutter project.
+The application is called " Roung « رونق » " and means: beauty, serenity . 
 
-## Getting Started
+## Technology & Project Inroduction 
+ techniques used in the project include, but are not limited : Dart, Flutter, Firebase, the project structure is easy and can be used easily, and here are some pictures to illustrate how it looks at display .
+ 
+![preview]()
 
-This project is a starting point for a Flutter application.
+![preview]()
 
-A few resources to get you started if this is your first Flutter project:
+![preview]()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![preview]()
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation & Use 
+
+To use this project, you need to have the following : 
+
+• Flutter installed on your computer (see Flutter's official documentation for more information) . 
+
+• A code editor, like Visual Studio Code or Android Studio . 
+
+• Run the command flutter run to start the app .
